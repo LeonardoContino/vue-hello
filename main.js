@@ -10,6 +10,8 @@ const app = Vue.createApp({
   data() {
     return {
       message: "ciao Mondo",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWxJ-niLzIKqw2HjBMM_hOPZnoI9xpXEJX1uQAQw&s",
     };
   },
 });
